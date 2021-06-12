@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/randomUser-API/static/css/main.8c41adb2.chunk.css",
+    "main.js": "/randomUser-API/static/js/main.dbf5ddd9.chunk.js",
+    "main.js.map": "/randomUser-API/static/js/main.dbf5ddd9.chunk.js.map",
+    "runtime-main.js": "/randomUser-API/static/js/runtime-main.99f2f1c0.js",
+    "runtime-main.js.map": "/randomUser-API/static/js/runtime-main.99f2f1c0.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/randomUser-API/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.280b03d5.chunk.js": "/randomUser-API/static/js/2.280b03d5.chunk.js",
+    "static/js/2.280b03d5.chunk.js.map": "/randomUser-API/static/js/2.280b03d5.chunk.js.map",
+    "static/js/3.5c8df7b5.chunk.js": "/randomUser-API/static/js/3.5c8df7b5.chunk.js",
+    "static/js/3.5c8df7b5.chunk.js.map": "/randomUser-API/static/js/3.5c8df7b5.chunk.js.map",
+    "index.html": "/randomUser-API/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/randomUser-API/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.8c41adb2.chunk.css.map": "/randomUser-API/static/css/main.8c41adb2.chunk.css.map",
+    "static/js/2.280b03d5.chunk.js.LICENSE.txt": "/randomUser-API/static/js/2.280b03d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99f2f1c0.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.280b03d5.chunk.js",
+    "static/css/main.8c41adb2.chunk.css",
+    "static/js/main.dbf5ddd9.chunk.js"
+  ]
+}
