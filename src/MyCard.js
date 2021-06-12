@@ -18,14 +18,14 @@ const MyCard =({details}) =>{
                     <FaMapMarkedAlt />
                     <span className="px-2"> {details.location?.city}</span>
                 
+                
+                
+                    <FaPhone />
+                    <span className="px-2">{details.phone}</span>
                 <CardText>
                     <FaEnvelope />
                     <span className="px-2">{details.email}</span>
                 </CardText>
-                
-                    <FaPhone />
-                    <span className="px-2">{details.phone}</span>
-                
                     
                 
                 </CardText>
